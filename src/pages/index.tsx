@@ -1,14 +1,11 @@
-import { Inter } from 'next/font/google'
 import React from 'react'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
     <main
-      className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
+      className={`flex flex-col items-center justify-between`}
     >
-      <h1 className="text-4xl font-bold">Hello World! com TSX</h1>
+      <h1 className={"font-semibold text-4xl font-poppins text-blue-600 pt-10"}>Hello World! TSX</h1>
     </main>
   )
 }
