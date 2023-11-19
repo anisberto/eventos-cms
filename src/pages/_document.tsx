@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang="pt-BR">
       <Head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="shortcut icon" href="favicon.png" type="image/png" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&family=Roboto&family=Sora:wght@100;200;700&display=swap" rel="stylesheet" />
       </Head>
       <body>
