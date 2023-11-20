@@ -5,7 +5,7 @@ export default function Home() {
     <main
       className={`flex flex-col items-center justify-between`}
     >
-      <h1 className={"font-semibold text-4xl font-poppins text-blue-600 pt-10"}>Hello World! TSX</h1>
+      <h1 className={"font-semibold text-4xl font-poppins text-blue-600 pt-10"}>Hello! TSX</h1>
     </main>
   )
 }
